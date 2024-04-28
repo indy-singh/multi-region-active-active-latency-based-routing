@@ -28,6 +28,6 @@ Also worth reading:-
 - https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iii-pilot-light-and-warm-standby/
 - https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/
 
-License is do whatever you want, no support that being said I will be adding fixes as I come across them. So raise an issue if you feel like this is urgently misleading or massively incorrect.
+License is do whatever you want, no support. That being said I will be adding fixes as I come across them. So raise an issue if you feel like this is urgently misleading or massively incorrect.
 
 Peace.
